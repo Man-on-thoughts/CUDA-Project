@@ -24,8 +24,7 @@ Following the command will produce this result.
 
 
 Lastly, you will wait on the result from the job submisison. There you will get file name and it will end with .o as well as generated numbers. 
-Second, you want to use the command cat to display the output of the file from the job submission.
+Second, you want to use the command cat to display the output of the file from the job submission. That is it for a job submission
 
 ![menu](https://github.com/Man-on-thoughts/CUDA-Project/blob/main/github%20images/result.png)
-
 
