@@ -8,3 +8,5 @@ First login to the HPCC using the ssh command and eraider username. ex. johndoe@
 
 
 From there you want to enter your password to your corresponding eraider. 
+Here you will be in the RedRaider cluster main menu
+![menu](https://github.com/Man-on-thoughts/CUDA-Project/blob/main/github%20images/redraidermenu.png)
